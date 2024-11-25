@@ -24,7 +24,7 @@
                 <Button Content="Start" Click="StartTimer_Click" Margin="5"/>
                 <Button Content="Pause" Click="PauseTimer_Click" Margin="5"/>
                 <Button Content="Reset" Click="ResetTimer_Click" Margin="5"/>
-                <Button Content="Export Report" Click="ExportReport_Click" Margin="5"/>
+                <Button Content="Export Report" Click="ExportToCsv_Click" Margin="5"/>
             </StackPanel>
         </StackPanel>
     </Grid>
